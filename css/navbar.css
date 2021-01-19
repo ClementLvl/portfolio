@@ -1,0 +1,15 @@
+.navbar-nav{
+    font-size:large;
+
+}
+header{
+    border-bottom: solid #9b34f1;
+}
+/*.bg-custom{
+    background-image: linear-gradient(to right,rgb(38, 161, 243), rgb(123, 28, 248));
+}*/
+a{
+    color:black;
+}
+
+

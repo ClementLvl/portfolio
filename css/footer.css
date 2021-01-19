@@ -1,0 +1,10 @@
+.footer{
+    border-top:  solid #9b34f1;
+    background: rgb(237,237,237);
+    background: linear-gradient(90deg, rgba(237,237,237,1) 0%, rgba(214,213,213,1) 94%);
+
+}
+
+.icones i[class*="fa"]{
+    font-size: x-large;
+}
